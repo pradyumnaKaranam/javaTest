@@ -11,6 +11,10 @@ System.out.println("getLocalCurrentDate()>>>>?");
 
 		
 System.out.println(getLocalCurrentDate());
+for(int i=0;i<=20;i++){
+System.out.println((i+1)+">>***Welcome to Jenkins 123 start###>>>"+(i+1));
+}
+
 		
 	}
 
