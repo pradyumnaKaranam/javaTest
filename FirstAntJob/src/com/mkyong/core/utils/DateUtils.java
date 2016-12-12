@@ -6,7 +6,10 @@ public class DateUtils {
 
 	public static void main(String[] args) {
 
-		System.out.println(getLocalCurrentDate());
+System.out.println("getLocalCurrentDate()");
+		
+		
+System.out.println(getLocalCurrentDate());
 		
 	}
 
